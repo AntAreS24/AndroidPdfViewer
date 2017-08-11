@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/AntAreS24/AndroidPdfViewer.svg)](https://jitpack.io/#AntAreS24/AndroidPdfViewer)
+
 
 
 # Android PdfViewer
