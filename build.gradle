@@ -1,6 +1,5 @@
 apply plugin: 'maven'
 
-group = 'com.github.AntAreS24'
 
 buildscript {
     repositories {
@@ -20,6 +19,3 @@ allprojects {
     }
 }
 
-dependencies {
-	compile 'com.github.barteksc:PdfiumAndroid:pdfium-android-1.7.0'
-}
