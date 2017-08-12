@@ -16,5 +16,10 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+		maven { url 'https://jitpack.io' }
     }
+}
+
+dependencies {
+	compile 'com.github.barteksc:PdfiumAndroid:pdfium-android-1.7.0'
 }
